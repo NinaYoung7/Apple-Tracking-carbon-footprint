@@ -1,4 +1,4 @@
-# Apple-Tracking-carbon-footprint
+# Apple - Personalizing Carbon Emissions Data for Future Carbon Neutrality
 
 
 Submitted by: **NING YANG**
